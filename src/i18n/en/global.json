@@ -1,0 +1,16 @@
+{
+    "formSearch": "Search city ..",
+    "Loading": "Loading ...",
+    "NotFound": "City not Found",
+    "city": {
+        "city1": "London",
+        "city2": "Toronto",
+        "city3": "singapore"
+    },
+    "MaxTemp": "Maximum Temperature",
+    "MinTemp": "Minimum Temperature",
+    "HumidityStatus": "Humidity",
+    "WindSpeed": "Wind Speed",
+    "search": "press enter to search",
+    "forecasts": "More weather forecast"
+}

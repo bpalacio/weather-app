@@ -1,0 +1,17 @@
+{
+    "formSearch": "Buscar ciudad ...",
+    "Loading": "Cargando ...",
+    "NotFound": "Ciudad no encontrada",
+    "city": {
+        "city1": "Londres",
+        "city2": "Toronto",
+        "city3": "singapur"
+    },
+    "MaxTemp": "Temperatura Máxima",
+    "MinTemp": "Temperatura Mínima",
+    "HumidityStatus": "Humedad",
+    "WindSpeed": "Velocidad del viento",
+    "search": "Presione enter para buscar",
+    "forecasts": "Más pronosticos del tiempo"
+
+}
