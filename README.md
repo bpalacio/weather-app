@@ -1,7 +1,8 @@
 ﻿# Climate consultation application
 > The application consults the weather of different cities in addition to showing forecasts for the next few hours. It has the possibility of changing languages ​​with what are Spanish and English.
+> 
 > Live demo 
-[![Netlify Status](https://forecast-bpalacio.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/68147f10-8630-43a5-aa90-9305ff3ae389/deploy-status)](https://forecast-bpalacio.netlify.app/)
 
 
 Scripts
